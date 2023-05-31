@@ -1,7 +1,5 @@
 import view, model
-with open('contacts.txt', 'a+', encoding='utf-8') as file:
-        pass
-    
+
 def start():
     view.greetings()    
     while True:
